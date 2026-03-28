@@ -1,4 +1,5 @@
-📈 Stock Market Prediction using AI (Python) 🤖
+📈 Stock Market Prediction using AI (Python) 
+
 🚀 Overview
 
 This project focuses on predicting future stock prices by analyzing historical stock market data using Python and Machine Learning techniques.
@@ -12,7 +13,8 @@ Trained a Machine Learning model
 Predicted future stock prices based on past trends
 
 🧠 Technologies Used
-Python 🐍
+
+Python 
 Matplotlib
 
 📌 Output
